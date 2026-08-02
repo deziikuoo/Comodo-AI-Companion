@@ -31,15 +31,25 @@ Still early (**0.2.x**) and actively evolving — shared so people can try it ou
 
 <h2 align="center">Showcase</h2>
 
-![In-game chat](assets/showcase/in-game-chat.png)
+<p align="center">
+  <img src="assets/showcase/in-game-chat.png" alt="In-game chat" width="100%" />
+</p>
 
-![Modo Muze listening](assets/showcase/modo-muze-listening.png)
+<p align="center">
+  <img src="assets/showcase/modo-muze-listening.png" alt="Modo Muze listening" width="100%" />
+</p>
 
-![Modo Muze live](assets/showcase/modo-muze-live.png)
+<p align="center">
+  <img src="assets/showcase/modo-muze-live.png" alt="Modo Muze live" width="100%" />
+</p>
 
-![Game detection menu](assets/showcase/game-detection-menu.png)
+<p align="center">
+  <img src="assets/showcase/game-detection-menu.png" alt="Game detection menu" width="100%" />
+</p>
 
-![Settings](assets/showcase/settings.png)
+<p align="center">
+  <img src="assets/showcase/settings.png" alt="Settings" width="100%" />
+</p>
 
 ---
 
