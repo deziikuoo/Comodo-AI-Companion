@@ -5,7 +5,7 @@
 <h1 align="center">Comodo AI Companion</h1>
 
 <p align="center">
-  <em>Always-on-top Windows overlay for in-game chat, game context, and Modo Muze.</em>
+  <em>An always-on-top,, in-game, Windows overlay that offers an Ai chat feature for game context, tips and tricks, guides, and recent patch release updates.It can also detect in game soundtracks for you lore enthusiasts! =D</em>
 </p>
 
 <p align="center">
