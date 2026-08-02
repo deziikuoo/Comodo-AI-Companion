@@ -44,11 +44,9 @@ Still early (**0.2.x**) and actively evolving — shared so people can try it ou
 </p>
 
 <p align="center">
-  <img src="assets/showcase/game-detection-menu.png" alt="Game detection menu" width="100%" />
-</p>
-
-<p align="center">
-  <img src="assets/showcase/settings.png" alt="Settings" width="100%" />
+  <img src="assets/showcase/game-detection-menu.png" alt="Game detection menu" width="48%" />
+  &nbsp;
+  <img src="assets/showcase/settings.png" alt="Settings" width="48%" />
 </p>
 
 ---
