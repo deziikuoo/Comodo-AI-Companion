@@ -31,17 +31,15 @@ Still early (**0.2.x**) and actively evolving — shared so people can try it ou
 
 ## Showcase
 
-<!-- Drop screenshots and GIFs into assets/showcase/ and uncomment or add rows below. -->
+![In-game chat](assets/showcase/in-game-chat.png)
 
-| Chat & overlay | Modo Muze | Settings / dock |
-| :---: | :---: | :---: |
-| ![Showcase — chat](assets/showcase/chat.png) | ![Showcase — Muze](assets/showcase/muze.png) | ![Showcase — settings](assets/showcase/settings.png) |
+![Modo Muze listening](assets/showcase/modo-muze-listening.png)
 
-| Auto-hide / dock | Game context | More |
-| :---: | :---: | :---: |
-| ![Showcase — dock](assets/showcase/dock.gif) | ![Showcase — game](assets/showcase/game.png) | ![Showcase — extra](assets/showcase/extra.gif) |
+![Modo Muze live](assets/showcase/modo-muze-live.png)
 
-> **Tip:** Add files named like `chat.png`, `muze.png`, `settings.png`, `dock.gif`, etc. under [`assets/showcase/`](assets/showcase/). Replace or extend the table as you capture more.
+![Game detection menu](assets/showcase/game-detection-menu.png)
+
+![Settings](assets/showcase/settings.png)
 
 ---
 
