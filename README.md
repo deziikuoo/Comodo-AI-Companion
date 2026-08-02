@@ -15,7 +15,7 @@
 
 ---
 
-## Description
+<h2 align="center">Description</h2>
 
 When I’m in a game, the last thing I want is to Alt-Tab into Discord, a browser, or a wiki just to ask a simple question, look up a track, or find a guide. I wanted something that sits with me while I play — helpful when I need it, and out of the way when I don’t.
 
@@ -29,7 +29,7 @@ Still early (**0.2.x**) and actively evolving — shared so people can try it ou
 
 ---
 
-## Showcase
+<h2 align="center">Showcase</h2>
 
 ![In-game chat](assets/showcase/in-game-chat.png)
 
@@ -43,16 +43,16 @@ Still early (**0.2.x**) and actively evolving — shared so people can try it ou
 
 ---
 
-## Google Gemini (bring your own key)
+<h2 align="center">Google Gemini (bring your own key)</h2>
 
 Comodo Ai uses **Google Gemini** on the **free tier**. You create your own API key in [Google AI Studio](https://aistudio.google.com/apikey) and paste it into Comodo once (~2 minute set up, no credit cards, payments, or subscriptions).
 
-### Quota
+<h3 align="center">Quota</h3>
 
 - Google’s free plan typically allows on the order of **~1,500 requests per day** per key (limits can change — check [AI Studio](https://aistudio.google.com/) / Google’s docs for current quotas).
 - That allowance is **yours**, tied to your Google account — Comodo doesn’t give you a shared pool of keys.
 
-### What we don’t store
+<h3 align="center">What we don’t store</h3>
 
 - We **never see or store your Google password**. Sign-in happens on Google’s site.
 - Your Gemini API key is stored **only on your PC** (OS keychain), not in this public repo and not as a Comodo-owned cloud secret.
@@ -62,15 +62,15 @@ Comodo Ai uses **Google Gemini** on the **free tier**. You create your own API k
 You can delete or replace the key anytime in AI Studio and in Comodo’s settings.
 
 
-## Install guide
+<h2 align="center">Install guide</h2>
 
-### Requirements
+<h3 align="center">Requirements</h3>
 
 - **Windows 10/11** (64-bit)
 - Network access for chat / updates (and Muze recognition when identifying tracks)
 - A free **Google Gemini API key** if you want Comodo Ai chat (optional to try the shell)
 
-### Steps
+<h3 align="center">Steps</h3>
 
 1. Open **[Releases](https://github.com/deziikuoo/Comodo-AI-Companion/releases/latest)**.
 2. Download the latest **`Comodo AI Companion_*_x64-setup.exe`**.
@@ -78,7 +78,7 @@ You can delete or replace the key anytime in AI Studio and in Comodo’s setting
 4. Launch **Comodo AI Companion**.
 5. When prompted (or later in **Settings**), connect free Gemini / Comodo Ai and paste your key from [Google AI Studio](https://aistudio.google.com/apikey).
 
-### Notes
+<h3 align="center">Notes</h3>
 
 - Windows **SmartScreen** may warn on first run until a paid code-signing certificate is in place — choose *More info* → *Run anyway* if you trust the download from this repo.
 - Closing the app stops **local** helpers on your machine; it does not shut down shared cloud infrastructure for everyone.
@@ -86,7 +86,7 @@ You can delete or replace the key anytime in AI Studio and in Comodo’s setting
 
 ---
 
-## Roadmap & future goals
+<h2 align="center">Roadmap & future goals</h2>
 
 Early roadmap — subject to change as the app grows:
 
@@ -101,7 +101,7 @@ If something’s broken or you have an idea, open an issue or use in-app support
 
 ---
 
-## About the developer
+<h2 align="center">About the developer</h2>
 
 | | |
 | ----------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -112,7 +112,7 @@ If something’s broken or you have an idea, open an issue or use in-app support
 
 ---
 
-## License
+<h2 align="center">License</h2>
 
 Proprietary. **Not open source.**  
 © Dawan Rashad Wright. All rights reserved. See [LICENSE](LICENSE).
