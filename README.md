@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/app-icon.png" alt="Comodo AI Companion" width="160" />
+  <img src="assets/logo.png" alt="Comodo AI Companion" width="240" />
 </p>
 
 <h1 align="center">Comodo AI Companion</h1>
