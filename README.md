@@ -47,7 +47,7 @@ Still early (**0.2.x**) and actively evolving — shared so people can try it ou
 
 ## Google Gemini (bring your own key)
 
-Comodo Ai uses **Google Gemini** on the **free tier**. You create your own API key in [Google AI Studio](https://aistudio.google.com/apikey) and paste it into Comodo once (~2 minutes sett up, no credit cards,, payments,, or subscriptions).
+Comodo Ai uses **Google Gemini** on the **free tier**. You create your own API key in [Google AI Studio](https://aistudio.google.com/apikey) and paste it into Comodo once (~2 minute set up, no credit cards, payments, or subscriptions).
 
 ### Quota
 
@@ -63,18 +63,6 @@ Comodo Ai uses **Google Gemini** on the **free tier**. You create your own API k
 
 You can delete or replace the key anytime in AI Studio and in Comodo’s settings.
 
----
-
-## Tech stack
-
-| Layer | Stack |
-| --- | --- |
-| Desktop overlay | **Tauri 2** + **Rust** + **React** (Windows) |
-| Local helpers | Sidecars for **game detection** and **Modo Muze** (audio identify) |
-| Cloud API | **FastAPI** (chat proxy, a few online features) |
-| AI | **Google Gemini** via **bring-your-own-key (BYOK)** |
-
----
 
 ## Install guide
 
@@ -96,7 +84,7 @@ You can delete or replace the key anytime in AI Studio and in Comodo’s setting
 
 - Windows **SmartScreen** may warn on first run until a paid code-signing certificate is in place — choose *More info* → *Run anyway* if you trust the download from this repo.
 - Closing the app stops **local** helpers on your machine; it does not shut down shared cloud infrastructure for everyone.
-- Existing installs can use **Settings → Support → Check for updates** for signed in-app updates.
+- Existing installs can use **Settings → Support → Check for updates** for in-app updates.
 
 ---
 
@@ -107,8 +95,7 @@ Early roadmap — subject to change as the app grows:
 - [ ] More polished onboarding and first-run experience  
 - [ ] Stronger game-context awareness and suggestions while you play  
 - [ ] Deeper Modo Muze library / discovery features  
-- [ ] Smoother video-guide flows from chat  
-- [ ] Authenticode signing (fewer SmartScreen warnings)  
+- [ ] Smoother video-guide flows from chat   
 - [ ] Quality-of-life overlay controls and accessibility  
 - [ ] Listening to feedback from early users and shipping what matters most  
 
