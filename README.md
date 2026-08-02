@@ -111,6 +111,8 @@ If something’s broken or you have an idea, open an issue or use in-app support
 
 <h2 align="center">About the developer</h2>
 
+<div align="center">
+
 | | |
 | ----------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Name** | Dawan Rashad Wright — Sensophy |
@@ -118,11 +120,17 @@ If something’s broken or you have an idea, open an issue or use in-app support
 | **Links** | [GitHub](https://github.com/deziikuoo) · [LinkedIn](https://www.linkedin.com/in/dawan-wright/) · [Buy Me a Coffee](https://buymeacoffee.com/deziikuoo) |
 | **Contact** | [ifdawanprintqualified14@gmail.com](mailto:ifdawanprintqualified14@gmail.com) |
 
+</div>
+
 ---
 
 <h2 align="center">License</h2>
 
-Proprietary. **Not open source.**  
-© Dawan Rashad Wright. All rights reserved. See [LICENSE](LICENSE).
+<p align="center">
+  Proprietary. <strong>Not open source.</strong><br />
+  © Dawan Rashad Wright. All rights reserved. See <a href="LICENSE">LICENSE</a>.
+</p>
 
-You may download and use the released Windows installer from this repository’s Releases. Source code is not licensed for copying, modification, or redistribution.
+<p align="center">
+  You may download and use the released Windows installer from this repository’s Releases. Source code is not licensed for copying, modification, or redistribution.
+</p>
