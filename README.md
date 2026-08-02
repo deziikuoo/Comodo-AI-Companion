@@ -47,7 +47,7 @@ Still early (**0.2.x**) and actively evolving — shared so people can try it ou
 
 ## Google Gemini (bring your own key)
 
-Comodo Ai uses **Google Gemini** on the **free tier**. You create your own API key in [Google AI Studio](https://aistudio.google.com/apikey) and paste it into Comodo once (~2 minutes, no credit card).
+Comodo Ai uses **Google Gemini** on the **free tier**. You create your own API key in [Google AI Studio](https://aistudio.google.com/apikey) and paste it into Comodo once (~2 minutes sett up, no credit cards,, payments,, or subscriptions).
 
 ### Quota
 
